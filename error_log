@@ -1,0 +1,2 @@
+[27-Apr-2023 08:49:41 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[27-Apr-2023 08:49:41 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
